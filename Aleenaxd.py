@@ -3,8 +3,8 @@ try:
 
 
 	os.system("python -m pip install requests ")
-try:
 
+os.system
 
 	import bs4
 
