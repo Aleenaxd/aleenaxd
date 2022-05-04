@@ -4,7 +4,7 @@ try:
 
 	os.system("python -m pip install requests ")
 
-except ModuleNotFoundError:
+try: except ModuleNotFoundError:
 
 	import bs4
 
