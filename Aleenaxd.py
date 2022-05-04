@@ -1,6 +1,6 @@
 try:
 
-requests,calendarexcept ModuleNotFoundError:
+
 
 	os.system("python -m pip install requests ")
 
