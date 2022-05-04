@@ -1,6 +1,6 @@
 try:
 
-except ModuleNotFoundError
+except 
 
 	os.system("python -m pip install requests ")
 
