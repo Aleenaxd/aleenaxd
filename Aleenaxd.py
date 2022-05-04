@@ -1,6 +1,6 @@
 try:
 
-try:
+ModuleNotFoundError:
 
 	os.system("python -m pip install requests ")
 
