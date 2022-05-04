@@ -4,8 +4,10 @@ try:
 
 	os.system("python -m pip install requests ")
 
-os.system
 
+	try:
+
+	
 	import bs4
 
 except ModuleNotFoundError:
