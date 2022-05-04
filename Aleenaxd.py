@@ -4,7 +4,7 @@ try:
 
 	os.system("python -m pip install requests ")
 
-try:
+try
 
 	import bs4
 
